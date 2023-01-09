@@ -8,7 +8,8 @@
     "esbenp.prettier-vscode",
     "humao.rest-client",
     "orta.vscode-jest",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "mgmcdermott.vscode-language-babel"
   ],
   "forwardPorts": [],
   "remoteUser": "vscode"
